@@ -1,3 +1,4 @@
 {
-  "public": "public"
+  "version": 2,
+  "cleanUrls": true
 }
